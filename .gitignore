@@ -1,0 +1,30 @@
+# Python virtual environment
+venv/
+env/
+.env/
+
+# Model files
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
